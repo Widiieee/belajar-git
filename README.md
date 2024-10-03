@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/37bda79c-9e9b-467e-865d-ec91bb6441f5)# proyek-01
+# proyek-01
 Repository ini adalah repository dummy untuk belajar Git. Silahkan baca materi tentang git remote di Petani Kode.
 
 Atau mulai belajar Git dari awal:
