@@ -14,3 +14,5 @@ Tutorial Git 08 - Perbedaan Git Checkout, Git Reset, dan Git Revert
 Tutorial Git 09 - Bekerja dengan Remote Repositori
 Tutorial Git 10 - Menggunakan Git Fetch dan Git Pull
 Tutorial Git 11 - Git Tag
+
+Sudah melakukan tutorial dari part 1-10
